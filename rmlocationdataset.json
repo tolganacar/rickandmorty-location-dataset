@@ -1,132 +1,132 @@
 [
   {
-	"id": 1
+	"id": 1,
     "name": "Anatomy Park",
     "type": "Microverse",
     "dimension": "Dimension C-137",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/anatomyPark.png"
   },
   {
-    "id": 2
+    "id": 2,
     "name": "Bird World",
     "type": "Planet",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/birdWorld.png"
   },
   {
-    "id": 3
+    "id": 3,
     "name": "Blips and Chitz",
     "type": "Arcade",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/blipsandChitz.png"
   },
   {
-    "id": 4
+    "id": 4,
     "name": "Corn Universe",
     "type": "Dimension",
     "dimension": "unknown",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/cornUniverse.png"
   },
   {
-    "id": 5
+    "id": 5,
     "name": "Signus 5 Expanse",
     "type": "Dimension",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/cromulon.png"
   },
   {
-    "id": 6
+    "id": 6,
     "name": "Froopyland",
     "type": "Artificially generated world",
     "dimension": "Exists in all universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/froopyland.png"
   },
   {
-    "id": 7
+    "id": 7,
     "name": "Gazorpazorp",
     "type": "Planet",
     "dimension": "Dimension C-131",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/gazorpazorp.png"
   },
   {
-    "id": 8
+    "id": 8,
     "name": "Microverse",
     "type": "Artificial tiny universe",
     "dimension": "Exists in all universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/microverse.png"
   },
   {
-    "id": 9
+    "id": 9,
     "name": "Pizza Universe",
     "type": "Dimension",
     "dimension": "unknown",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/pizzaUniverse.png"
   },
   {
-    "id": 10
+    "id": 10,
     "name": "Planet Squanch",
     "type": "Planet",
     "dimension": "unknown",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/planetSquanch.png"
   },
   {
-    "id": 11
+    "id": 11,
     "name": "Pluto",
     "type": "Planet",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/pluto.png"
   },
   {
-    "id": 12
+    "id": 12,
     "name": "Post-Apocalyptic",
     "type": "Dimension",
     "dimension": "Post-Apocalyptic Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/postApocalyptic.png"
   },
   {
-    "id": 13
+    "id": 13,
     "name": "Resort Planet",
     "type": "Planet",
     "dimension": "unknown",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/resortPlanet.png"
   },
   {
-    "id": 14
+    "id": 14,
     "name": "Screaming Sun Earth",
     "type": "Planet",
     "dimension": "Dimension C-131",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/screamingSunPlanet.png"
   },
   {
-    "id": 15
+    "id": 15,
     "name": "Smith Residence",
     "type": "Home",
     "dimension": "Exists in all universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/smithResidence.png"
   },
   {
-    "id": 16
+    "id": 16,
     "name": "Snake Planet",
     "type": "Planet",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/snakePlanet.png"
   },
   {
-    "id": 17
+    "id": 17,
     "name": "The Citadel",
     "type": "Castle City State",
     "dimension": "unknown",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/theCitadel.png"
   },
   {
-    "id": 18
+    "id": 18,
     "name": "Unity's Planet",
     "type": "Planet",
     "dimension": "Replacement Dimension",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/unitysPlanet.png"
   },
   {
-    "id": 19
+    "id": 19,
     "name": "Venzenulon 7",
     "type": "Planet",
     "dimension": "unknown",
