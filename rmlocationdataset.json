@@ -80,7 +80,7 @@
     "id": 12,
     "name": "Post-Apocalyptic",
     "type": "Dimension",
-    "dimension": "Post-Apocalyptic Dimension",
+    "dimension": "Post-Apocalyptic",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/postApocalyptic.png"
   },
   {
