@@ -37,8 +37,8 @@
   {
     "id": 6,
     "name": "Froopyland",
-    "type": "Artificially generated world",
-    "dimension": "Exists in all universes",
+    "type": "Artificially Generated World",
+    "dimension": "Exists in All Universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/froopyland.png"
   },
   {
@@ -51,8 +51,8 @@
   {
     "id": 8,
     "name": "Microverse",
-    "type": "Artificial tiny universe",
-    "dimension": "Exists in all universes",
+    "type": "Artificial Tiny Universe",
+    "dimension": "Exists in All Universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/microverse.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": 15,
     "name": "Smith Residence",
     "type": "Home",
-    "dimension": "Exists in all universes",
+    "dimension": "Exists in All Universes",
 	"image": "https://raw.githubusercontent.com/tolganacar/rickandmorty-location-dataset/master/smithResidence.png"
   },
   {
